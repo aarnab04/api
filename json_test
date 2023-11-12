@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "albumId": 11,
+        "title": "here we go",
+        "url": "blabla.com",
+        "thumbnailUrl": "blablapic.com"
+    },
+    {
+        "id": 2,
+        "albumId": 11,
+        "title": "here we go again",
+        "url": "blabla2.com",
+        "thumbnailUrl": "blablapic2.com"
+    }
+]
