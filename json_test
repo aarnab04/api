@@ -2,14 +2,14 @@
     {
         "id": "1",
         "albumId": "11",
-        "title": "here we go",
+        "title": "This data is fetched using rest API",
         "url": "blabla.com",
         "thumbnailUrl": "blablapic.com"
     },
     {
         "id": "2",
         "albumId": "11",
-        "title": "here we go again",
+        "title": "Awesome! Isn't it",
         "url": "blabla2.com",
         "thumbnailUrl": "blablapic2.com"
     }
