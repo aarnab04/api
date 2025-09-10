@@ -13,4 +13,11 @@
         "url": "blabla2.com",
         "thumbnailUrl": "blablapic2.com"
     }
+    {
+        "id": "3",
+        "albumId": "11",
+        "title": "It's still working in 2025 September",
+        "url": "blabla3.com",
+        "thumbnailUrl": "blablapic3.com"
+    }
 ]
